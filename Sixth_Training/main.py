@@ -1,7 +1,7 @@
 # Algorytm - zadanie uczestnika. Musimy zgadnąć liczbę którą wymyślił sobie komputer.
 from random import randint # random - klasa, funkcja - randint
 
-# for i in range(100): # pętla "for" za zmienną "i" przebiega w tej pętli określona ilośc razy ile obiektów napotka o wartości ile podaje się w nawiasie ranke(100)!
+# for i in range(100): # pętla "for" za zmienną "i!" przebiega w tej pętli określona ilośc razy ile obiektów napotka o wartości ile podaje się w nawiasie ranke(100)!
     # print(randint(1, 10))
 
 los = randint(1, 10)
